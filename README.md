@@ -12,9 +12,13 @@ I'm a passionate Frontend Developer with over 3 years of experience specializing
 
 ## 📚 Projects
 - [Parascores: ⚽](https://parascore.vercel.app) A football application that shows live scores, match statistics, player ratings, team lineups, and real-time updates for games across different leagues and competitions. (React, TailwindCSS, Firebase)
+  
 - [Lineup Builder: ](https://line-up-builder.vercel.app) A tool for creating and customizing football lineups, allowing users to select formations, add players, assign positions, and share or save team setups for matches or tactical planning. (React, TailwindCSS, Node.js, MongoDb)
+  
 - [Player Comparison App: 👥](https://player-comparison.vercel.app) An app that lets users compare football players across various stats such as goals, assists, passes, tackles, and other performance metrics, with data from different leagues and competitions. (React, Typescript)
+  
 - [DreyXInk: 📖](https://dreyxinx.vercel.app) A website where users can read, write, and share stories across various genres. It has features like liking, commenting, and bookmarking for favorite reads.
+  
 ## 📬 Connect With Me
 - LinkedIn: [in/oluwaseyihassan](https://linkedin.com/in/oluwaseyihassan)
 - Email: [hassanabdullahioluwaseyi@gmail.com](mailto:hassanabdullahioluwaseyi@gmail.com)
