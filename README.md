@@ -1,13 +1,17 @@
 
 Hi, I'm Oluwaseyi! 👋🏾
 ## 🚀 About Me
-I'm a passionate Frontend Developer with over 3 years of experience specializing in React. I thrive in collaborative environments and enjoy solving complex problems by creating clean, responsive, and user-friendly interfaces. I love keeping up with the latest industry standards and continuously improving my skills. Currently, I am looking to expand my expertise and contribute to dynamic teams building impactful web applications.
+I’m a Frontend Developer with hands-on experience building responsive, user-friendly interfaces using React, TypeScript, and Tailwind CSS. Passionate about clean UI, performance, and user experience especially in sports-related projects with real-time data. I’m detail-oriented and always eager to learn and improve.
 
 
 ## 🛠 Skills
-- Languages: Javascript, Typescript, Python
-- Frameworks & Libraries: React, Next.js, Node.js, Express, FastAPI
-- Tools & Platforms: Github, Vercel, Docker
+- Languages: HTML, CSS, Javascript, Typescript, Python.
+- Frameworks & Libraries: React, Next.js, React Query, TailwindCSS, Axios, Node.js, Express.js, D3js.
+- Tools & Platforms: Git, Github,Vite , Vercel, Docker.
+- Testing: Vitest, React Testing Library, Postman.
+- Databases: MongoDB, Firebase.
+- CI/CD: GitHub Actions (basic), Vercel Deployments.
+- API Integration: REST APIs, JSON, API Authentication (OAuth, Tokens).
 
 
 ## 📚 Projects
