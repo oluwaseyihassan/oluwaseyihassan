@@ -15,7 +15,7 @@ I’m a Frontend Developer with hands-on experience building responsive, user-fr
 
 
 ## 📚 Projects
-- [Parascores: ⚽](https://parascore.vercel.app) A football application that shows live scores, match statistics, player ratings, team lineups, and real-time updates for games across different leagues and competitions. (React, TailwindCSS, Firebase)
+- [Parascores: ⚽](https://parascores.com) A football application that shows live scores, match statistics, player ratings, team lineups, and real-time updates for games across different leagues and competitions. (React, TailwindCSS, Firebase)
   
 - [Lineup Builder: ](https://line-up-builder.vercel.app) A tool for creating and customizing football lineups, allowing users to select formations, add players, assign positions, and share or save team setups for matches or tactical planning. (React, TailwindCSS, Node.js, MongoDb)
   
