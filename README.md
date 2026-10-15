@@ -1,29 +1,49 @@
+# Hi, I'm Oluwaseyi! 👋🏾
 
-Hi, I'm Oluwaseyi! 👋🏾
-## 🚀 About Me
-I’m a Frontend Developer with hands-on experience building responsive, user-friendly interfaces using React, TypeScript, and Tailwind CSS. Passionate about clean UI, performance, and user experience especially in sports-related projects with real-time data. I’m detail-oriented and always eager to learn and improve.
+### 🚀 About Me
+Software Engineer with 4 years of experience building high-performance web applications, distributed APIs, and real-time systems across TypeScript, React/Next.js, Node.js/NestJS, and PostgreSQL.
 
+Founder and sole architect of **[ParaScores](https://parascores.com)**, a multi-tenant sports tournament management SaaS serving ~500 registered users and 20+ live competitions with sub-second real-time scoring (SSE + Redis) and automated Paystack prize payouts. Comfortable owning products end-to-end, from architecture and UI to cloud deployments and monitoring.
+
+- 🔭 **Currently building:** Expanding tournament automation on ParaScores and exploring real-time multiplayer systems
+- 📍 **Location:** Ile-Ife, Nigeria (Open to remote & relocation)
+- 💬 **Ask me about:** Real-time event streaming, tournament engines, Next.js, and payment architecture
+
+---
 
 ## 🛠 Skills
-- Languages: HTML, CSS, Javascript, Typescript, Python.
-- Frameworks & Libraries: React, Next.js, React Query, TailwindCSS, Axios, Node.js, Express.js, D3js.
-- Tools & Platforms: Git, Github,Vite , Vercel, Docker.
-- Testing: Vitest, React Testing Library, Postman.
-- Databases: MongoDB, Firebase.
-- CI/CD: GitHub Actions (basic), Vercel Deployments.
-- API Integration: REST APIs, JSON, API Authentication (OAuth, Tokens).
 
+- **Languages:** TypeScript, JavaScript (ES6+), SQL, Python, HTML5, CSS3
+- **Frontend:** React, Next.js, Vue 3, Nuxt 4, Tailwind CSS, TanStack Query, Pinia, PWA
+- **Backend & APIs:** Node.js, NestJS, Express.js, RESTful APIs, Server-Sent Events (SSE), Webhooks, Redis (Caching & Pub/Sub)
+- **Databases & ORM:** PostgreSQL, Prisma ORM, Redis, Firebase Firestore, MongoDB
+- **Fintech & Integrations:** Paystack API (Subscriptions, Splits, Instant Transfers/Payouts, Webhook Idempotency), Google OAuth 2.0
+- **DevOps & Tooling:** Docker, Git, GitHub Actions, Vercel, Vite, Sentry (APM/Telemetry), Linux VPS Management
+- **Testing:** Jest, Playwright, Supertest, React Testing Library, Vitest, Postman
 
-## 📚 Projects
-- [Parascores: ⚽](https://parascores.com) A football application that shows live scores, match statistics, player ratings, team lineups, and real-time updates for games across different leagues and competitions. (React, TailwindCSS, Firebase)
-  
-- [Lineup Builder: ](https://line-up-builder.vercel.app) A tool for creating and customizing football lineups, allowing users to select formations, add players, assign positions, and share or save team setups for matches or tactical planning. (React, TailwindCSS, Node.js, MongoDb)
-  
-- [Player Comparison App: 👥](https://player-comparison.vercel.app) An app that lets users compare football players across various stats such as goals, assists, passes, tackles, and other performance metrics, with data from different leagues and competitions. (React, Typescript)
-  
-- [DreyXInk: 📖](https://dreyxinx.vercel.app) A website where users can read, write, and share stories across various genres. It has features like liking, commenting, and bookmarking for favorite reads.
-  
+---
+
+## 📚 Featured Projects
+
+### [ParaScores: Tournament SaaS ⚽](https://parascores.com)
+A multi-tenant tournament management platform serving ~500 registered users and 20+ competitions. Features automated bracket generation, league standings, sub-second live match scoring over Server-Sent Events, and automated Paystack prize payouts.
+*(NestJS, Nuxt 4/Next.js, PostgreSQL, Prisma, Redis, Docker)*
+
+### [ParaScore: Real-Time Live Scores 📱](https://parascore.vercel.app)
+A real-time football livescore web application integrating external football APIs with short polling to deliver instant match scores, fixtures, standings, and transfer news without page refreshing.
+*(React, Firebase, Tailwind CSS)*
+
+### [Lineup Builder: Football Tactics Visualizer 📋](https://line-up-builder.vercel.app)
+An interactive tactics visualization tool featuring drag-and-drop pitch placement, dynamic tactical formations, and custom state serialization enabling shareable squad URLs.
+*(React, TypeScript, HTML5 Drag-and-Drop API, Tailwind CSS)*
+
+### [DreyXinx: Storytelling & Content Platform 📖](https://dreyxinx.vercel.app)
+A full-stack social content-sharing platform with authenticated reader/author workflows, Markdown authoring, protected routes, and interactive commenting and bookmarking.
+*(React, Node.js, Express, Firebase, Tailwind CSS)*
+
+---
+
 ## 📬 Connect With Me
-- LinkedIn: [in/oluwaseyihassan](https://linkedin.com/in/oluwaseyihassan)
-- Email: [hassanabdullahioluwaseyi@gmail.com](mailto:hassanabdullahioluwaseyi@gmail.com)
-- Portfolio: [loseyi.vercel.app](https://loseyi.vercel.app)
+- **LinkedIn:** [linkedin.com/in/oluwaseyihassan](https://linkedin.com/in/oluwaseyihassan)
+- **Email:** [hassanabdullahioluwaseyi@gmail.com](mailto:hassanabdullahioluwaseyi@gmail.com)
+- **Portfolio:** [loseyi.vercel.app](https://loseyi.vercel.app)
